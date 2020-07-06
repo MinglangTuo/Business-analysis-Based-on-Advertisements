@@ -48,13 +48,23 @@ When CTR in 0.5~1.0, the young adult(<30) are likely to click when impressions. 
 
 T2:
 
-The (<18) male and female both have same min,max and mean, but the number of male is greater than female(表1)
-The male and female have almost same impressions and clicks.(表5)
-The female(<18) has more impressions than male(<18) (图12)
-The number of female(<18) who become members are more than male(<18) (图9)
-The number of female(<18) who click the advertisement are more than male(<18) (图11)
-The female（<18） are more likely to click more than male（<18）when impressions. (图13)
+The (<18) male and female both have same min,max and mean, but the number of male is greater than female(表1)  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Table/table1.png" title= "table1">  
 
+The male and female have almost same impressions and clicks.(表5)  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Table/table5.png" title= "table5">  
+
+The female(<18) has more impressions than male(<18) (图12)  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/Impressions%20for%20gender(small%20than%2018).png" width ="500" height = "500">  
+
+The number of female(<18) who become members are more than male(<18) (图9)  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/Signed_In%20for%20gender(small%20than%2018).png" width ="500" height = "500"> 
+
+The number of female(<18) who click the advertisement are more than male(<18) (图11)  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/scode%20for%20gender(small%20than%2018).png" width ="500" height = "500"> 
+
+The female（<18） are more likely to click more than male（<18）when impressions. (图13)  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/CTR%20for%20gender(small%20than%2018).png" width ="500" height = "500">   
 
 
 
