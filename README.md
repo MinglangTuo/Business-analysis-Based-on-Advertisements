@@ -7,7 +7,7 @@ The project carries out business analysis by R language. In addition, the datase
 The DataSet records the data of Internet Vistors who subscribe the NewYorkTime(https://www.nytimes.com/). More specifically, the information is about different background users’ clicking on advertisements during reading the news.
 
 ## Tasks
-Choose any day for business analysis.  
+Choose any one of days for business analysis.  
 ```
 T1: Plot the distributions of number impressions and click-through-rate (CTR=# clicks/# impressions) for the 5 age categories as "<30", "30-39", "40-49", "50-59", "60+".  
 T2: Explore the data and make visual (plotting) and quantitative comparisons (table) across user demographics <18-year-old males versus < 18-year-old females. 
@@ -95,4 +95,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)  
-[xjtlu] Xi'an Jiaotong University
+[xjtlu] Xi 'an Jiaotong Liverpool University
