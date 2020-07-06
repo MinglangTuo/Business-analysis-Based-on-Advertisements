@@ -6,6 +6,17 @@ The project carries out business analysis by R language. In addition, the datase
 ## DataSet
 The DataSet records the data of Internet Vistors who subscribe the NewYorkTime(https://www.nytimes.com/). More specifically, the information is about different background users’ clicking on advertisements during reading the news.
 
+# Additional Library  
+You need install the relevent library: ggplot2, readr, dplyr. doBy
+```
+require(readr)
+require(dplyr)
+require(doBy)
+require(ggplot2)
+
+```
+
+
 ## Tasks
 Choose any one of days for business analysis.  
 ```
