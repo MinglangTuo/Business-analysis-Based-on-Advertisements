@@ -22,7 +22,7 @@ T5: Describe ONE pattern you found.
 ## Results
 The nyt1 is used for business analysis.
 
-T1: 
+T1:  
 Young people receives more impressions than old people.    
 <img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/the%20relationship%20between%20age%20and%20impressions.png" width ="500" height = "500">  
 
@@ -46,27 +46,47 @@ When CTR in 0.5~1.0, the young adult(<30) are likely to click when impressions. 
 
 <img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/CTR%20By%20agecat_click.png" width ="500" height = "500">  
 
-T2:
-
-The (<18) male and female both have same min,max and mean, but the number of male is greater than female(表1)  
+T2:  
+The (<18) male and female both have same min,max and mean, but the number of male is greater than female.   
 <img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Table/table1.png" title= "table1">  
 
-The male and female have almost same impressions and clicks.(表5)  
+The male and female have almost same impressions and clicks.
 <img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Table/table5.png" title= "table5">  
 
-The female(<18) has more impressions than male(<18) (图12)  
+The female(<18) has more impressions than male(<18)    
 <img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/Impressions%20for%20gender(small%20than%2018).png" width ="500" height = "500">  
 
-The number of female(<18) who become members are more than male(<18) (图9)  
+The number of female(<18) who become members are more than male(<18)  
 <img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/Signed_In%20for%20gender(small%20than%2018).png" width ="500" height = "500"> 
 
-The number of female(<18) who click the advertisement are more than male(<18) (图11)  
+The number of female(<18) who click the advertisement are more than male(<18)   
 <img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/scode%20for%20gender(small%20than%2018).png" width ="500" height = "500"> 
 
-The female（<18） are more likely to click more than male（<18）when impressions. (图13)  
+The female（<18） are more likely to click more than male（<18）when impressions.   
 <img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/CTR%20for%20gender(small%20than%2018).png" width ="500" height = "500">   
 
+T3:  
+(Note: Now let us create new category called scode with value "NoImps", "Imps", "Clicks". And convert the column into a factor.)  
+The metrics of summay for male and female in day1  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Table/table2.png" title= "table5">  
 
+The metrics of summay for male in day1  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Table/table3.png" title= "table5">  
+
+The metrics of summay for female in day1  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Table/table4.png" title= "table5">  
+
+Below these three tables, it easily found the male receive more impressions and have more scode_rate than the female , but the female click more Advertisement than the male and female have strong intentions after the Advertisement pushing(reasons: CTR).  
+
+T4:  
+Male are likely to click the advertisement when working on Monday(the first day in weekdays),however the female are more focus on work on Monday.  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/gender%20for%2010%20days.png" width ="500" height = "500">  
+
+The old people(>60) have more space time to click advertisement in all ten days, however the people(30-39/40-49) who under Career peak have low desire to click the advertisement.  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/agecat%20for%2010%20days.png" width ="500" height = "500">  
+
+People in weekend are more likely to click the advertisement than in workday.  
+<img src ="https://github.com/MinglangTuo/Business-analysis-Based-on-Advertisements/blob/master/Picture/CTR%20for%2010%20days.png" width ="500" height = "500">  
 
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -74,4 +94,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)  
+[xjtlu] Xi'an Jiaotong University
